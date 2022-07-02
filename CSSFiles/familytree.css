@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+}
+.main-header{
+  display: flex;
+  margin-top: 0;
+  height: 100px;
+  background-color: #5c77b6;
+  align-items: center;
+  justify-content: space-between;
+}
+.cornwall-mine{
+  height: 90px;
+  margin-left: 110px;
+}
+.chapman-inn{
+  height: 90px;
+  margin-right: 70px;
+}
+.oates-header{
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  width: 800px;
+  padding-left: 120px;
+}
+.main-section{
+  display: flex;
+  flex-direction: row;
+  height: 800px;
+}
+.tree-tab-list{
+  display:flex;
+  background-color: lightgrey;
+  flex-direction: column;
+  width: 200px;
+  padding-top: 2px;
+}
+.tree-tab{
+  background-color: #5c77b6;
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: 10px;
+  margin-left: 100px;
+  border: none;
+  border-radius: 5px;
+  width: 80px;
+  font-size: 18px;
+}
+.tree-section{
+  display: flex;
+  height: 800px;
+  width:100%;
+  background-color: lightgrey;
+}
+.trees{
+  height: 350px;
+  margin-left: 120px;
+  margin-top: 20px;
+}
