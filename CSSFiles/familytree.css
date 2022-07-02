@@ -59,3 +59,12 @@ body{
   margin-left: 120px;
   margin-top: 20px;
 }
+.treetext-box{
+  background-color: lightgrey;
+}
+.tree-text{
+  margin-top: 50px;
+  margin-left: 5px;
+  width: 200px;
+  margin-right: 40px;
+}
