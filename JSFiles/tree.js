@@ -26,6 +26,7 @@ if(famName==="Martin"){
 if(famName==="Fry"){
   const treeText = document.createElement("p");
   treeText.classList.add("tree-text");
+  treeText.classList.add("tree-text:hover");
   treeText.innerText = "The other newest part of our family comes from German ancestors (Frye/Moyer) in Pennsylvania and Maryland through Ohio, while the other half of this line (McCabe) comes from Ireland. So Grandma Georgia is principally Irish, German, and French Canadian.";
   document.getElementById("treetext").appendChild(treeText);
 }
