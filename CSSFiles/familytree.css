@@ -50,6 +50,7 @@ body{
 }
 .tree-tab:hover{
   background-color: darkblue;
+  cursor: pointer;
 }
 .tree-section{
   display: flex;
